@@ -4,10 +4,11 @@
 
 ---
 
-> For Rust Developers
-## Install this binary crate
+> ## _For Rust Developers_
 
-### `cargo install pranav_minigrep`
+**Install this binary crate**
+
+`$cargo install pranav_minigrep`
 
 ---
 
