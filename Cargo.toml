@@ -1,7 +1,9 @@
 [package]
-name = "minigrep"
-version = "0.1.0"
+description = "Mini Version of grep regex command. It finds out the given string and returns the line containing it."
 edition = "2021"
+license = "MIT"
+name = "pranav_minigrep"
+version = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
