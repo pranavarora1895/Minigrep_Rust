@@ -2,8 +2,16 @@
 
 ### This is a Command line utility developed in Rust that parses the keyword from the file and outputs the relevant line.
 
-### Clone this repo and follow the given usage:
+---
 
+> For Rust Developers
+## Install this binary crate
+
+### `cargo install pranav_minigrep`
+
+---
+
+### Clone this repo and follow the given usage:
 > ## Usage
 >
 > * `cargo run <keyword> <filename.txt>`
